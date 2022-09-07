@@ -1,4 +1,4 @@
-# my-first-repo-again
+# my-first-repo
 
 [Klik om naar Zuyd te gaan](https://www.zuyd.nl/)
 
